@@ -1,0 +1,4 @@
+name: ebay_api_config
+svcs.ebay.com:
+    appid: KevinLuk-ECommerc-SBX-14db2d93b-9d05e2fc
+    version: 1.0.0
